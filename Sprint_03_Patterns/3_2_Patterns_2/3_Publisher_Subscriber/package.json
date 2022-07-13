@@ -1,0 +1,15 @@
+{
+  "name": "3_Publisher_Subscriber",
+  "version": "1.0.0",
+  "description": "https://morioh.com/p/8bc4fb039a9a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.9.0"
+  }
+}

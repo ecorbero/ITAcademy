@@ -1,0 +1,22 @@
+{ 
+    "Poker": 
+        [
+            {"nom": "Enric", "punts": 0},
+            {"nom": "Paco", "punts": 1},
+            {"nom": "Pau", "punts": 0}
+        ], 
+    "Remigio": 
+        [
+            {"nom": "Enric", "punts": 0},
+            {"nom": "Pau", "punts": 0}
+        ]
+    
+}
+
+let jocs;
+if (jocs == 'undefined') {
+	jocs = {};    
+}
+jocs = {...jocs, poker: {} };
+
+console.log(jocs)

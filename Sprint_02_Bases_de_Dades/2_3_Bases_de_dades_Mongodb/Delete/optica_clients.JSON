@@ -1,0 +1,3 @@
+{"clients_id": 1,"nom": "client 1", "adreca": "carrer del rat penat 1, 2", "telefon": "91 2989 8922", "email": "elclient@gmail.com", "data": "22022021"}
+{"clients_id": 1,"nom": "client 2", "adreca": "carrer del pi 1, 2", "telefon": "92 2989 8922", "email": "elclient2@gmail.com", "data": "23022021", "prescriptor": 1  }
+{"clients_id": 1,"nom": "client 3", "adreca": "carrer del pot 1, 2", "telefon": "93 2989 8922", "email": "elclient3@gmail.com", "data": "24022021", "prescriptor": 1  }

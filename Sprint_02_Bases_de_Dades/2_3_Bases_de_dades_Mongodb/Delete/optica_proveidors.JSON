@@ -1,0 +1,3 @@
+{"proveidor_id": 1,"nom": "Proveidor 1", "adreca": {"carrer": "carrer del u","numero": 1,"pis": 22,"porta": "B", "ciutat": " BCN", "codipostal": 08080, "pais": "France"},"telefon": "92 221 2223","fax": "92 2999 299","NIF": "28 289 289 J"}
+{"proveidor_id": 2,"nom": "Proveidor 2", "adreca": {"carrer": "carrer del dos","numero": 2,"pis": 23,"porta": "c", "ciutat": " BdN", "codipostal": 08081, "pais": "Andorra"},"telefon": "92 222 2223","fax": "92 293 299","NIF": "28 249 289 J"}
+{"proveidor_id": 3,"nom": "Proveidor 3", "adreca": {"carrer": "carrer del tres","numero": 3,"pis": 24,"porta": "E", "ciutat": "Dirona", "codipostal": 08083, "pais": "Italia"},"telefon": "92 223 2223","fax": "92 2933 299","NIF": "28 219 289 J"}
